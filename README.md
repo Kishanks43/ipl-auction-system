@@ -1,6 +1,6 @@
 # 🏏 IPL Auction System
 
-A full-stack web application simulating IPL-style player auctions with bidding logic, team budgets, and real-time decision flow.
+- A full-stack web application simulating IPL-style player auctions with bidding logic, team budgets, and real-time decision flow.
 ---
 
 ## 🚀 Features
