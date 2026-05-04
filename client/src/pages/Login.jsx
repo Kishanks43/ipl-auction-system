@@ -4,7 +4,7 @@ export default function Login({ onLogin }) {
   const [password, setPassword] = useState("");
 
   const handleLogin = () => {
-    if (password === "chordsoverat") {
+    if (password === "start@auction_kish") {
       onLogin(true);
     } else {
       alert("Wrong password!");
