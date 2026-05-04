@@ -1,0 +1,418 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.mystery-screen {
+  background: black;
+  color: gold;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.reveal-screen {
+  background: radial-gradient(circle, #000, #400);
+  color: white;
+  text-align: center;
+  height: 100vh;
+  animation: flash 0.4s ease-in-out;
+}
+
+.reveal-image {
+  margin-top: 2rem;
+  width: 300px;
+  border-radius: 15px;
+  animation: zoomIn 2s ease-out ;
+}
+
+.reveal-name {
+  font-size: 3rem;
+  animation: fadeIn 1s ease-in;
+}
+
+@keyframes zoomIn {
+  from { transform: scale(0); }
+  to { transform: scale(1); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes flash {
+  0% { background: white; }
+  100% { background: black; }
+}
+
+.sold-container {
+  height: 100vh;
+  position: relative;
+  text-align: center;
+  color: white;
+  background: radial-gradient(circle, #111, #53b546);
+
+  display: flex;              /* ADD THIS */
+  flex-direction: column;     /* ADD THIS */
+  justify-content: center;    /* ADD THIS */
+  align-items: center;        /* ADD THIS */
+
+  animation: soldPulse 1s ease-out;
+}
+
+@keyframes soldPulse {
+  0% {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+  40% {
+    transform: scale(1.02);
+    filter: brightness(1.4);
+  }
+  100% {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+}
+
+
+.sold-banner {
+  width: 100vw;
+  text-align: center;
+  background: linear-gradient(to right, gold, darkorange);
+  color: black;
+  font-size: 4rem;
+  font-weight: bold;
+  padding: 20px 0;
+
+  position: relative;
+  overflow: hidden;
+
+  animation: slideTicker 0.8s ease-out forwards;
+  box-shadow: 0 0 40px rgba(255, 200, 0, 0.7);
+
+}
+
+
+@keyframes slideTicker {
+  0% {
+    transform: translateX(-100%);
+  }
+  70% {
+    transform: translateX(5%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+.unsold-banner {
+  font-size: 4rem;
+  color: red;
+  animation: fadeIn 1s ease-in;
+}
+
+@keyframes slideIn {
+  to {
+    left: 0;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.player-image {
+  width: 300px;
+  height: 350px;           /* FIX HEIGHT */
+  object-fit: contain;     /* VERY IMPORTANT */
+  border-radius: 10px;
+  margin-top: 2rem;
+  animation: pulse 9s infinite;
+
+}
+
+
+.player-name {
+  margin-top: 15px;
+  font-size: clamp(1.4rem, 2.5vw, 2.4rem);
+  color: #fff;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.unsold-bg {
+  background: radial-gradient(circle, #300, #000);
+}
+
+.grayscale {
+  filter: grayscale(100%);
+  opacity: 0.8;
+}
+
+.unsold-banner {
+  margin-top: 30px;
+  font-size: 4rem;
+  font-weight: bold;
+  color: #ff3b3b;
+  animation: shake 0.6s ease-in-out, fadeIn 1s ease-in;
+}
+
+.unsold-subtext {
+  margin-top: 10px;
+  font-size: 1.5rem;
+  color: #ccc;
+  letter-spacing: 1px;
+  animation: fadeIn 1.5s ease-in;
+}
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-10px); }
+  50% { transform: translateX(10px); }
+  75% { transform: translateX(-10px); }
+  100% { transform: translateX(0); }
+}
+
+.standby-screen {
+  height: 100vh;
+  background: linear-gradient(135deg, #020024, #090979, #000);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  animation: fadeIn 1s ease-in;
+}
+
+.standby-screen h1 {
+  font-size: 4rem;
+  letter-spacing: 3px;
+}
+
+.standby-screen h2 {
+  margin-top: 20px;
+  font-size: 2rem;
+  color: gold;
+}
+
+.standby-screen p {
+  margin-top: 10px;
+  font-size: 1.2rem;
+  opacity: 0.7;
+}
+
+.bidding-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  background: radial-gradient(circle, #111, #000); /* ADD THIS */
+  color: white;
+}
+
+.bidding-image {
+  width: 260px;
+  height: 320px;
+  animation: slowZoom 6s infinite alternate;
+}
+
+@keyframes slowZoom {
+  from { transform: scale(1); }
+  to { transform: scale(1.05); }
+}
+
+.bidding-badge {
+  margin-top: 20px;
+  background: rgb(200, 22, 22);
+  padding: 10px 30px;
+  font-size: 1.8rem ;
+  border-radius: 30px;
+  animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.1); opacity: 0.8; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.player-info {
+  margin-top: 20px;
+  font-size: 1.5rem;
+  opacity: 0.9;
+}
+
+
+.mystery-standby {
+  height: 100vh;
+  background: radial-gradient(circle, #000, #220000);
+  color: gold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  animation: fadeIn 1s ease-in;
+}
+
+.mystery-standby h1 {
+  font-size: 4rem;
+  letter-spacing: 4px;
+}
+
+.mystery-subtext {
+  margin-top: 10px;
+  font-size: 1.5rem;
+  color: #ccc;
+}
+
+.mystery-bidding {
+  margin-top: 30px;
+  font-size: 2rem;
+  background: crimson;
+  padding: 10px 25px;
+  border-radius: 30px;
+  color: white;
+  animation: pulse 1s infinite;
+}
+
+
+.display-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.fixed-logos {
+  position: fixed;
+  top: 10px;
+  left: 0;
+  width: 100%;
+  pointer-events: none; /* clicks go through */
+  z-index: 9999;
+}
+
+.logo {
+  width: clamp(60px, 8vw, 120px);
+  opacity: 0.9;
+}
+
+.left-logo {
+  position: absolute;
+  left: 20px;
+}
+
+.right-logo {
+  position: absolute;
+  right: 20px;
+}
+
+.audio-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  z-index: 99999;
+  cursor: pointer;
+}
+
+.team-logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  position: relative;
+}
+
+
+.team-logo {
+  width: 180px;
+  height: 180px;        /* fixed box */
+  object-fit: contain;  /* KEY FIX */
+  filter: drop-shadow(0 0 20px rgba(255, 215, 0, 0.5));
+}
+
+@media (max-width: 768px) {
+
+  .player-name {
+    font-size: 1.6rem;
+    text-align: center;
+  }
+
+  .player-image {
+    width: 200px;
+  }
+
+  .sold-banner {
+    font-size: 2rem;
+  }
+
+  .bidding-badge {
+    font-size: 1.2rem;
+    padding: 6px 20px;
+  }
+
+}
+
+
+@media (min-width: 1600px) {
+
+  .player-image {
+    width: 380px;
+  }
+
+  .player-name {
+    font-size: 3rem;
+  }
+
+  .sold-banner {
+    font-size: 4.5rem;
+  }
+
+}
+
+.screen-center {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

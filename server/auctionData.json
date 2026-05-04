@@ -1,0 +1,2503 @@
+{
+  "phase": "sold",
+  "players": [
+    {
+      "id": 1770133412223,
+      "name": "PAT CUMMINS",
+      "basePrice": "200",
+      "points": "87",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "GT",
+      "soldAmount": "450",
+      "imageId": "PAT_CUMMINS.png"
+    },
+    {
+      "id": 1770137609304,
+      "name": "NEHAL WADHERA",
+      "basePrice": "100",
+      "points": "72",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "MI",
+      "soldAmount": "300",
+      "imageId": "NEHAL_WADHERA.png"
+    },
+    {
+      "id": 1770133638595,
+      "name": "SHIKHAR DHAWAN",
+      "basePrice": "100",
+      "points": "84",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "DC",
+      "soldAmount": "425",
+      "imageId": "SHIKHAR_DHAWAN.png"
+    },
+    {
+      "id": 1770137615520,
+      "name": "T NATArajan",
+      "basePrice": "50",
+      "points": "75",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "DC",
+      "soldAmount": "275",
+      "imageId": "T_NATARAJAN.png"
+    },
+    {
+      "id": 1770137718623,
+      "name": "KESHAV MAHARAJ",
+      "basePrice": "100",
+      "points": "79",
+      "nationality": "OV",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "MI",
+      "soldAmount": "350",
+      "imageId": "KESHAV_MAHARAJ.png"
+    },
+    {
+      "id": 1770137297867,
+      "name": "SAM CURRAN",
+      "basePrice": "100",
+      "points": "80",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "GT",
+      "soldAmount": "425",
+      "imageId": "SAM_CURRAN.png"
+    },
+    {
+      "id": 1770137702046,
+      "name": "JAYDEV UNADKAT",
+      "basePrice": "50",
+      "points": "72",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "LSG",
+      "soldAmount": "275",
+      "imageId": "JAYDEV_UNADKAT.png"
+    },
+    {
+      "id": 1770133084074,
+      "name": "SURYA KUMAR YADAV",
+      "basePrice": "200",
+      "points": "94",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "MI",
+      "soldAmount": "600",
+      "imageId": "SURYAKUMAR_YADAV.png"
+    },
+    {
+      "id": 1770133543009,
+      "name": "BHUVNESHWAR KUMAR",
+      "basePrice": "100",
+      "points": "88",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "SRH",
+      "soldAmount": "500",
+      "imageId": "BHUVNESHWAR_KUMAR.png"
+    },
+    {
+      "id": 1770137723792,
+      "name": "SHIMRON HETMYER",
+      "basePrice": "100",
+      "points": "76",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "DC",
+      "soldAmount": "375",
+      "imageId": "SHIMRON_HETMYER.png"
+    },
+    {
+      "id": 1770137808193,
+      "name": "NITISH RANA",
+      "basePrice": "100",
+      "points": "77",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "RCB",
+      "soldAmount": "350",
+      "imageId": "NITISH_RANA.png"
+    },
+    {
+      "id": 1770137567441,
+      "name": "LIAM LIVINGSTONE",
+      "basePrice": "100",
+      "points": "78",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "MI",
+      "soldAmount": "375",
+      "imageId": "LIAM_LIVINGSTONE.png"
+    },
+    {
+      "id": 1770137714479,
+      "name": "DARYL MITCHELL",
+      "basePrice": "100",
+      "points": "79",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "GT",
+      "soldAmount": "425",
+      "imageId": "DARYL_MITCHELL.png"
+    },
+    {
+      "id": 1770137815363,
+      "name": "DEWALD BREVIS",
+      "basePrice": "150",
+      "points": "85",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "DC",
+      "soldAmount": "500",
+      "imageId": "DEWALD_BREVIS.png"
+    },
+    {
+      "id": 1770133983560,
+      "name": "PRITHVI SHAW",
+      "basePrice": "100",
+      "points": "49",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "RCB",
+      "soldAmount": "350",
+      "imageId": "PRITHVI_SHAW.png"
+    },
+    {
+      "id": 1770137701023,
+      "name": "SHARDUL THAKUR",
+      "basePrice": "100",
+      "points": "82",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "SHARDUL_THAKUR.png"
+    },
+    {
+      "id": 1770137721725,
+      "name": "DANIEL SAMS",
+      "basePrice": "100",
+      "points": "73",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "DANIEL_SAMS.png"
+    },
+    {
+      "id": 1770137605156,
+      "name": "RAVI BISHNOI",
+      "basePrice": "150",
+      "points": "88",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "RAVI_BISHNOI.png"
+    },
+    {
+      "id": 1770134110019,
+      "name": "RASHID KHAN",
+      "basePrice": "150",
+      "points": "92",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "RASHID_KHAN.png"
+    },
+    {
+      "id": 1770137708267,
+      "name": "SHIVAM DUBE",
+      "basePrice": "150",
+      "points": "89",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "SHIVAM_DUBE.png"
+    },
+    {
+      "id": 1770137711377,
+      "name": "MITCHELL MARSH",
+      "basePrice": "150",
+      "points": "85",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "MITCHELL_MARSH.png"
+    },
+    {
+      "id": 1770137709301,
+      "name": "RAHUL CHAHAR",
+      "basePrice": "100",
+      "points": "74",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "RAHUL_CHAHAR.png"
+    },
+    {
+      "id": 1770137720691,
+      "name": "RILEE ROSSOUW",
+      "basePrice": "150",
+      "points": "82",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "RILEE_ROSSOUW.png"
+    },
+    {
+      "id": 1770131355114,
+      "name": "MITCHELL STARC",
+      "basePrice": "200",
+      "points": "94",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "MITCHELL_STARC.png"
+    },
+    {
+      "id": 1770137617599,
+      "name": "KARUN NAIR",
+      "basePrice": "100",
+      "points": "70",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "CSK",
+      "soldAmount": "225",
+      "imageId": "KARUN_NAIR.png"
+    },
+    {
+      "id": 1770130558348,
+      "name": "VIRAT KOHLI",
+      "basePrice": "200",
+      "points": "100",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "KKR",
+      "soldAmount": "650",
+      "imageId": "virat_kohli.png"
+    },
+    {
+      "id": 1770137820484,
+      "name": "ADIL RASHID",
+      "basePrice": "150",
+      "points": "85",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "ADIL_RASHID.png"
+    },
+    {
+      "id": 1770137604120,
+      "name": "ADAM ZAMPA",
+      "basePrice": "150",
+      "points": "86",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "ADAM_ZAMPA.png"
+    },
+    {
+      "id": 1770137803071,
+      "name": "MOHIT SHARMA",
+      "basePrice": "100",
+      "points": "77",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "MOHIT_SHARMA.png"
+    },
+    {
+      "id": 1770137618643,
+      "name": "LOCKIE FERGUSON",
+      "basePrice": "150",
+      "points": "83",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "LOCKIE_FERGUSON.png"
+    },
+    {
+      "id": 1770137821509,
+      "name": "JASON HOLDER",
+      "basePrice": "100",
+      "points": "83",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "JASON_HOLDER.png"
+    },
+    {
+      "id": 1770137538890,
+      "name": "TIM DAVID",
+      "basePrice": "150",
+      "points": "85",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "TIM_DAVID.png"
+    },
+    {
+      "id": 1770137802047,
+      "name": "AKASH MADHWAL",
+      "basePrice": "50",
+      "points": "74",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "AKASH_MADHWAL.png"
+    },
+    {
+      "id": 1770137716556,
+      "name": "QUINTON DE KOCK",
+      "basePrice": "200",
+      "points": "92",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "QUINTON_DE_KOCK.png"
+    },
+    {
+      "id": 1770137581188,
+      "name": "SPENCER JOHNSON",
+      "basePrice": "50",
+      "points": "77",
+      "nationality": "OV",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "KKR",
+      "soldAmount": "150",
+      "imageId": "SPENCER_JOHNSON.png"
+    },
+    {
+      "id": 1770137611378,
+      "name": "RUTURAJ GAIKWAD",
+      "basePrice": "200",
+      "points": "91",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "RUTURAJ_GAIKWAD.png"
+    },
+    {
+      "id": 1770137606189,
+      "name": "SHERFANE RUTHERFORD",
+      "basePrice": "100",
+      "points": "69",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "SHERFANE_RUTHERFORD.png"
+    },
+    {
+      "id": 1770137705166,
+      "name": "DINESH KARTHIK",
+      "basePrice": "150",
+      "points": "86",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "CSK",
+      "soldAmount": "500",
+      "imageId": "DINESH_KARTHIK.png"
+    },
+    {
+      "id": 1770137608266,
+      "name": "MARCUS STOINIS",
+      "basePrice": "200",
+      "points": "90",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "RCB",
+      "soldAmount": "600",
+      "imageId": "MARCUS_STOINIS.png"
+    },
+    {
+      "id": 1770137712411,
+      "name": "ALEX CAREY",
+      "basePrice": "100",
+      "points": "71",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "LSG",
+      "soldAmount": "375",
+      "imageId": "ALEX_CAREY.png"
+    },
+    {
+      "id": 1770137703089,
+      "name": "VENVATESH IYER",
+      "basePrice": "150",
+      "points": "84",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "VENKATESH_IYER.png"
+    },
+    {
+      "id": 1770133182683,
+      "name": "RAVINDRA JADEJA",
+      "basePrice": "200",
+      "points": "94",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "RAVINDRA_JADEJA.png"
+    },
+    {
+      "id": 1770137530042,
+      "name": "WASHINGTON SUNDAR",
+      "basePrice": "100",
+      "points": "78",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "WASHINGTON_SUNDAR.png"
+    },
+    {
+      "id": 1770137713446,
+      "name": "GLENN PHILLIPS",
+      "basePrice": "150",
+      "points": "85",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "GLENN_PHILLIPS.png"
+    },
+    {
+      "id": 1770131083206,
+      "name": "STEVEN SMITH",
+      "basePrice": "150",
+      "points": "85",
+      "nationality": "OV",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "LSG",
+      "soldAmount": "325",
+      "imageId": "steven_smith.png"
+    },
+    {
+      "id": 1770137575033,
+      "name": "MUKESH KUMAR",
+      "basePrice": "100",
+      "points": "78",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "MUKESH_KUMAR.png"
+    },
+    {
+      "id": 1770137140402,
+      "name": "JOS BUTTLER",
+      "basePrice": "150",
+      "points": "81",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "JOS_BUTTLER.png"
+    },
+    {
+      "id": 1770131760623,
+      "name": "HARDIK PANDYA",
+      "basePrice": "200",
+      "points": "95",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "hardik_pandya.png"
+    },
+    {
+      "id": 1770137719657,
+      "name": "DAVID MILLER",
+      "basePrice": "150",
+      "points": "86",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "DAVID_MILLER.png"
+    },
+    {
+      "id": 1770137213826,
+      "name": "TOM CURRAN ",
+      "basePrice": "50",
+      "points": "65",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "TOM_CURRAN.png"
+    },
+    {
+      "id": 1770137700001,
+      "name": "MAYANK AGARWAL",
+      "basePrice": "150",
+      "points": "82",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "MAYANK_AGARWAL.png"
+    },
+    {
+      "id": 1770131617551,
+      "name": "GLENN MAXWELL",
+      "basePrice": "150",
+      "points": "77",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "GLENN_MAXWELL.png"
+    },
+    {
+      "id": 1770132684512,
+      "name": "SHREYAS IYER",
+      "basePrice": "200",
+      "points": "92",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "SHREYAS_IYER.png"
+    },
+    {
+      "id": 1770137523119,
+      "name": "DEVON CONWAY",
+      "basePrice": "150",
+      "points": "84",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "DEVON_CONWAY.png"
+    },
+    {
+      "id": 1770130739428,
+      "name": "KS BHARAT",
+      "basePrice": "150",
+      "points": "80",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "DC",
+      "soldAmount": "350",
+      "imageId": "ks_bharat.png"
+    },
+    {
+      "id": 1770137806145,
+      "name": "RAMANDEEP SINGH",
+      "basePrice": "50",
+      "points": "73",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "RAMANDEEP_SINGH.png"
+    },
+    {
+      "id": 1770137809217,
+      "name": "VARUN CHAKRAVARTHY",
+      "basePrice": "150",
+      "points": "88",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "KKR",
+      "soldAmount": "475",
+      "imageId": "VARUN_CHAKRAVARTHY.png"
+    },
+    {
+      "id": 1770131504534,
+      "name": "KAGISO RABADA ",
+      "basePrice": "200",
+      "points": "89",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "CSK",
+      "soldAmount": "475",
+      "imageId": "KAGISO_RABADA.png"
+    },
+    {
+      "id": 1770137823557,
+      "name": "JONNY BAIRSTOW",
+      "basePrice": "150",
+      "points": "84",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "KKR",
+      "soldAmount": "450",
+      "imageId": "JONNY_BAIRSTOW.png"
+    },
+    {
+      "id": 1770137616562,
+      "name": "HEINRICH KLAASEN",
+      "basePrice": "200",
+      "points": "89",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "HEINRICH_KLAASEN.png"
+    },
+    {
+      "id": 1770137707233,
+      "name": "PRASIDH KRISHNA",
+      "basePrice": "150",
+      "points": "85",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "LSG",
+      "soldAmount": "375",
+      "imageId": "PRASIDH_KRISHNA.png"
+    },
+    {
+      "id": 1770131986729,
+      "name": " JASPRIT BUMRAH",
+      "basePrice": "200",
+      "points": "100",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "MI",
+      "soldAmount": "600",
+      "imageId": "JASPRIT_BUMRAH.png"
+    },
+    {
+      "id": 1770136880616,
+      "name": "ABHISHEK SHARMA ",
+      "basePrice": "150",
+      "points": "91",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "GT",
+      "soldAmount": "475",
+      "imageId": "ABHISHEK_SHARMA.png"
+    },
+    {
+      "id": 1770137817411,
+      "name": "AZMATULLAH OMARZAI",
+      "basePrice": "150",
+      "points": "83",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "AZMATULLAH_OMARZAI.png"
+    },
+    {
+      "id": 1770136789170,
+      "name": "SANJU SAMSON",
+      "basePrice": "200",
+      "points": "74",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "GT",
+      "soldAmount": "350",
+      "imageId": "SANJU_SAMSON.png"
+    },
+    {
+      "id": 1770137500001,
+      "name": "RINKU SINGH",
+      "basePrice": "100",
+      "points": "81",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "RCB",
+      "soldAmount": "200",
+      "imageId": "RINKU_SINGH.png"
+    },
+    {
+      "id": 1770137559920,
+      "name": "TILAK VARMA",
+      "basePrice": "100",
+      "points": "89",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "GT",
+      "soldAmount": "450",
+      "imageId": "TILAK_VARMA.png"
+    },
+    {
+      "id": 1770137825606,
+      "name": "MATHEESA PATHIRANA",
+      "basePrice": "150",
+      "points": "86",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "MATHEESA_PATHIRANA.png"
+    },
+    {
+      "id": 1770132931341,
+      "name": "KL RAHUL",
+      "basePrice": "150",
+      "points": "97",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "SRH",
+      "soldAmount": "500",
+      "imageId": "KL_RAHUL.png"
+    },
+    {
+      "id": 1770132830943,
+      "name": "AXAR PATEL",
+      "basePrice": "150",
+      "points": "89",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "CSK",
+      "soldAmount": "450",
+      "imageId": "AXAR_PATEL.png"
+    },
+    {
+      "id": 1770137545603,
+      "name": "ARSHDEEP SINGH",
+      "basePrice": "150",
+      "points": "90",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "RCB",
+      "soldAmount": "500",
+      "imageId": "ARSHDEEP_SINGH.png"
+    },
+    {
+      "id": 1770133291581,
+      "name": "AB DE VILLIERS",
+      "basePrice": "200",
+      "points": "97",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "RCB",
+      "soldAmount": "700",
+      "imageId": "ABD.png"
+    },
+    {
+      "id": 1770137827654,
+      "name": "DUSHMANTHA CHAMEERA",
+      "basePrice": "100",
+      "points": "72",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "DUSHMANTHA_CHAMEERA.png"
+    },
+    {
+      "id": 1770137367455,
+      "name": "HARSHIT RANA ",
+      "basePrice": "150",
+      "points": "83",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "SRH",
+      "soldAmount": "375",
+      "imageId": "HARSHIT_RANA.png"
+    },
+    {
+      "id": 1770137807169,
+      "name": "ANUJ RAWAT",
+      "basePrice": "50",
+      "points": "68",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "DC",
+      "soldAmount": "375",
+      "imageId": "ANUJ_RAWAT.png"
+    },
+    {
+      "id": 1770137822533,
+      "name": "BEN DUCKETT",
+      "basePrice": "100",
+      "points": "79",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "LSG",
+      "soldAmount": "375",
+      "imageId": "BEN_DUCKETT.png"
+    },
+    {
+      "id": 1770137025806,
+      "name": "JAKE FRASER Mc GURK",
+      "basePrice": "50",
+      "points": "62",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "LSG",
+      "soldAmount": "250",
+      "imageId": "JAKE_FRASER_MC_GRUK.png"
+    },
+    {
+      "id": 1770137818436,
+      "name": "NOOR AHMAD",
+      "basePrice": "100",
+      "points": "73",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "NOOR_AHMAD.png"
+    },
+    {
+      "id": 1770130234496,
+      "name": "ROHIT SHARMA",
+      "basePrice": "200",
+      "points": "100",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "SRH",
+      "soldAmount": "650",
+      "imageId": "rohit_sharma.png"
+    },
+    {
+      "id": 1770137602045,
+      "name": "NICHOLAS POORAN",
+      "basePrice": "150",
+      "points": "85",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "NICHOLAS_POORAN.png"
+    },
+    {
+      "id": 1770132760622,
+      "name": "KULDEEP YADAV",
+      "basePrice": "150",
+      "points": "98",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "KULDEEP_YADAV.png"
+    },
+    {
+      "id": 1770131871123,
+      "name": "MS DHONI ",
+      "basePrice": "150",
+      "points": "100",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "CSK",
+      "soldAmount": "600",
+      "imageId": "MS_DHONI.png"
+    },
+    {
+      "id": 1770137826630,
+      "name": "MAHEESH THEEKSHANA",
+      "basePrice": "150",
+      "points": "85",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "LSG",
+      "soldAmount": "375",
+      "imageId": "MAHEESH_THEEKSHANA.png"
+    },
+    {
+      "id": 1770137715522,
+      "name": "FAF DU PLESSIS",
+      "basePrice": "200",
+      "points": "91",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "DC",
+      "soldAmount": "550",
+      "imageId": "FAF_DU_PLESSIS.png"
+    },
+    {
+      "id": 1770137804096,
+      "name": "KARTIK TYAGI",
+      "basePrice": "50",
+      "points": "69",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "DC",
+      "soldAmount": "350",
+      "imageId": "KARTIK_TYAGI.png"
+    },
+    {
+      "id": 1770137824581,
+      "name": "MARK WOOD",
+      "basePrice": "150",
+      "points": "80",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "KKR",
+      "soldAmount": "325",
+      "imageId": "MARK_WOOD.png"
+    },
+    {
+      "id": 1770137816387,
+      "name": "ROMARIO SHEPHERD",
+      "basePrice": "100",
+      "points": "82",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "RCB",
+      "soldAmount": "350",
+      "imageId": "ROMARIO_SHEPHERD.png"
+    },
+    {
+      "id": 1770137813314,
+      "name": "PRERAK MANKAD",
+      "basePrice": "50",
+      "points": "70",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "LSG",
+      "soldAmount": "250",
+      "imageId": "PRERAK_MANKAD.png"
+    },
+    {
+      "id": 1770132198079,
+      "name": "ISHAN KISHAN ",
+      "basePrice": "200",
+      "points": "92",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "MI",
+      "soldAmount": "500",
+      "imageId": "ISHAN_KISHAN.png"
+    },
+    {
+      "id": 1770136530349,
+      "name": "JITESH SHARMA",
+      "basePrice": "100",
+      "points": "87",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "CSK",
+      "soldAmount": "225",
+      "imageId": "JITESH_SHARMA.png"
+    },
+    {
+      "id": 1770137607220,
+      "name": "DEEPAK CHAHAR",
+      "basePrice": "150",
+      "points": "84",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "LSG",
+      "soldAmount": "375",
+      "imageId": "DEEPAK_CHAHAR.png"
+    },
+    {
+      "id": 1770137829703,
+      "name": "CHARITH ASALANKA",
+      "basePrice": "150",
+      "points": "80",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "SRH",
+      "soldAmount": "250",
+      "imageId": "CHARITH_ASALANKA.png"
+    },
+    {
+      "id": 1770137600001,
+      "name": "RAHUL TRIPATHI",
+      "basePrice": "100",
+      "points": "82",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "RAHUL_TRIPATHI.png"
+    },
+    {
+      "id": 1770137552199,
+      "name": "CAMERON GREEN",
+      "basePrice": "200",
+      "points": "89",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "KKR",
+      "soldAmount": "500",
+      "imageId": "CAMERON_GREEN.png"
+    },
+    {
+      "id": 1770137603088,
+      "name": "SHIVAM MAVI",
+      "basePrice": "50",
+      "points": "68",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "LSG",
+      "soldAmount": "200",
+      "imageId": "SHIVAM_MAVI.png"
+    },
+    {
+      "id": 1770137717590,
+      "name": "ANRICH NORTJE",
+      "basePrice": "100",
+      "points": "83",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "ANRICH_NORTJE.png"
+    },
+    {
+      "id": 1770132556834,
+      "name": "SHUBMAN GILL",
+      "basePrice": "200",
+      "points": "91",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "SHUBMAN_GILL.png"
+    },
+    {
+      "id": 1770130962702,
+      "name": "DAVID WARNER",
+      "basePrice": "200",
+      "points": "88",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "DAVID_WARNER.png"
+    },
+    {
+      "id": 1770137722758,
+      "name": "MOEEN ALI",
+      "basePrice": "150",
+      "points": "88",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "MOEEN_ALI.png"
+    },
+    {
+      "id": 1770132060167,
+      "name": "RAJAT PATIDAR",
+      "basePrice": "200",
+      "points": "90",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "GT",
+      "soldAmount": "350",
+      "imageId": "RAJAT_PATIDAR.png"
+    },
+    {
+      "id": 1770132446813,
+      "name": "YASH DAYAL",
+      "basePrice": "150",
+      "points": "86",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "YASH_DAYAL.png"
+    },
+    {
+      "id": 1770137814339,
+      "name": "HARPREET BRAR",
+      "basePrice": "100",
+      "points": "74",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "CSK",
+      "soldAmount": "325",
+      "imageId": "HARPREET_BRAR.png"
+    },
+    {
+      "id": 1770137828678,
+      "name": "WANINDU HASARANGA",
+      "basePrice": "100",
+      "points": "78",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "GT",
+      "soldAmount": "375",
+      "imageId": "WANINDU_HASARANGA.png"
+    },
+    {
+      "id": 1770137601023,
+      "name": "AYUSH BADONI",
+      "basePrice": "100",
+      "points": "80",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "AYUSH_BADONI.png"
+    },
+    {
+      "id": 1770137704122,
+      "name": "MANISH PANDEY",
+      "basePrice": "100",
+      "points": "74",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "SRH",
+      "soldAmount": "600",
+      "imageId": "MANISH_PANDEY.png"
+    },
+    {
+      "id": 1770137612409,
+      "name": "KANE WILLIAMSON",
+      "basePrice": "200",
+      "points": "87",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "LSG",
+      "soldAmount": "475",
+      "imageId": "KANE_WILLIAMSON.png"
+    },
+    {
+      "id": 1770137811266,
+      "name": "YASH THAKUR",
+      "basePrice": "50",
+      "points": "70",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "KKR",
+      "soldAmount": "180",
+      "imageId": "YASH_THAKUR.png"
+    },
+    {
+      "id": 1770137508421,
+      "name": "MOHAMMAD SIRAJ",
+      "basePrice": "150",
+      "points": "86",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "RCB",
+      "soldAmount": "325",
+      "imageId": "MOHAMMAD_SIRAJ.png"
+    },
+    {
+      "id": 1770136435000,
+      "name": "ISHANT SHARMA",
+      "basePrice": "100",
+      "points": "82",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "CSK",
+      "soldAmount": "300",
+      "imageId": "ISHANT_SHARMA.png"
+    },
+    {
+      "id": 1770137516243,
+      "name": "TRENT BOULT",
+      "basePrice": "200",
+      "points": "90",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "MI",
+      "soldAmount": "375",
+      "imageId": "TRENT_BOULT.png"
+    },
+    {
+      "id": 1770137710344,
+      "name": "JOSH HAZLEWOOD",
+      "basePrice": "200",
+      "points": "90",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "SRH",
+      "soldAmount": "400",
+      "imageId": "JOSH_HAZLEWOOD.png"
+    },
+    {
+      "id": 1770137805120,
+      "name": "LALIT YADAV",
+      "basePrice": "50",
+      "points": "67",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "LALIT_YADAV.png"
+    },
+    {
+      "id": 1770132369734,
+      "name": "SAI SUDHARSAN",
+      "basePrice": "200",
+      "points": "88",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "KKR",
+      "soldAmount": "425",
+      "imageId": "SAI_SUDHARSAN.png"
+    },
+    {
+      "id": 1770137819460,
+      "name": "TABRAIZ SHAMSI",
+      "basePrice": "100",
+      "points": "84",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "GT",
+      "soldAmount": "200",
+      "imageId": "TABRAIZ_SHAMSI.png"
+    },
+    {
+      "id": 1770137613444,
+      "name": "VIJAY SHANKAR",
+      "basePrice": "50",
+      "points": "69",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "VIJAY_SHANKAR.png"
+    },
+    {
+      "id": 1770137800001,
+      "name": "ABHINAV MANOHAR",
+      "basePrice": "100",
+      "points": "71",
+      "nationality": "IN",
+      "isMystery": false,
+      "status": "sold",
+      "soldTo": "GT",
+      "soldAmount": "190",
+      "imageId": "ABHINAV_MANOHAR.png"
+    },
+    {
+      "id": 1770137614477,
+      "name": "AARON HARDIE",
+      "basePrice": "50",
+      "points": "76",
+      "nationality": "OV",
+      "isMystery": false,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "AARON_HARDIE.png"
+    },
+    {
+      "id": 1770137810241,
+      "name": "SURYANSH SHEDGE",
+      "basePrice": "50",
+      "points": "61",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "available",
+      "soldTo": null,
+      "soldAmount": null,
+      "imageId": "SURYANSH_SHEDGE.png"
+    },
+    {
+      "id": 1770137812290,
+      "name": "KULWANT KHEJROLIYA",
+      "basePrice": "50",
+      "points": "60",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "RCB",
+      "soldAmount": "120",
+      "imageId": "KULWANT_KHEJROLIYA.png"
+    },
+    {
+      "id": 1770137619680,
+      "name": "UMRAN MALIK",
+      "basePrice": "150",
+      "points": "79",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "MI",
+      "soldAmount": "350",
+      "imageId": "UMRAN_MALIK.png"
+    },
+    {
+      "id": 1770137610341,
+      "name": "REECE Topley",
+      "basePrice": "100",
+      "points": "68",
+      "nationality": "OV",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "DC",
+      "soldAmount": "275",
+      "imageId": "REECE_TOPLEY.png"
+    },
+    {
+      "id": 1770137706199,
+      "name": "NAVDEEP SAINI",
+      "basePrice": "100",
+      "points": "68",
+      "nationality": "IN",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "KKR",
+      "soldAmount": "325",
+      "imageId": "NAVDEEP_SAINI.png"
+    },
+    {
+      "id": 1770137724826,
+      "name": "OBED MCCOY",
+      "basePrice": "100",
+      "points": "70",
+      "nationality": "OV",
+      "isMystery": true,
+      "status": "sold",
+      "soldTo": "CSK",
+      "soldAmount": "350",
+      "imageId": "OBED_MCCOY.png"
+    }
+  ],
+  "teams": [
+    {
+      "name": "RCB",
+      "purse": 3500,
+      "spent": 3495,
+      "players": [
+        {
+          "name": "NITISH RANA",
+          "points": "77"
+        },
+        {
+          "name": "PRITHVI SHAW",
+          "points": "49"
+        },
+        {
+          "name": "ARSHDEEP SINGH",
+          "points": "90"
+        },
+        {
+          "name": "MARCUS STOINIS",
+          "points": "90"
+        },
+        {
+          "name": "AB DE VILLIERS",
+          "points": "97"
+        },
+        {
+          "name": "MOHAMMAD SIRAJ",
+          "points": "86"
+        },
+        {
+          "name": "ROMARIO SHEPHERD",
+          "points": "82"
+        },
+        {
+          "name": "RINKU SINGH",
+          "points": "81"
+        },
+        {
+          "name": "KULWANT KHEJROLIYA",
+          "points": "60"
+        }
+      ]
+    },
+    {
+      "name": "CSK",
+      "purse": 3500,
+      "spent": 3450,
+      "players": [
+        {
+          "name": "MS DHONI ",
+          "points": "100"
+        },
+        {
+          "name": "DINESH KARTHIK",
+          "points": "86"
+        },
+        {
+          "name": "OBED MCCOY",
+          "points": "70"
+        },
+        {
+          "name": "KAGISO RABADA ",
+          "points": "89"
+        },
+        {
+          "name": "AXAR PATEL",
+          "points": "89"
+        },
+        {
+          "name": "ISHANT SHARMA",
+          "points": "82"
+        },
+        {
+          "name": "HARPREET BRAR",
+          "points": "74"
+        },
+        {
+          "name": "KARUN NAIR",
+          "points": "70"
+        },
+        {
+          "name": "JITESH SHARMA",
+          "points": "87"
+        }
+      ]
+    },
+    {
+      "name": "RR",
+      "purse": 3500,
+      "spent": 0,
+      "players": []
+    },
+    {
+      "name": "LSG",
+      "purse": 3500,
+      "spent": 3750,
+      "players": [
+        {
+          "name": "JAYDEV UNADKAT",
+          "points": "72"
+        },
+        {
+          "name": "PRERAK MANKAD",
+          "points": "70"
+        },
+        {
+          "name": "KANE WILLIAMSON",
+          "points": "87"
+        },
+        {
+          "name": "ALEX CAREY",
+          "points": "71"
+        },
+        {
+          "name": "DEEPAK CHAHAR",
+          "points": "84"
+        },
+        {
+          "name": "BEN DUCKETT",
+          "points": "79"
+        },
+        {
+          "name": "PRASIDH KRISHNA",
+          "points": "85"
+        },
+        {
+          "name": "STEVEN SMITH",
+          "points": "85"
+        },
+        {
+          "name": "JAKE FRASER Mc GURK",
+          "points": "62"
+        },
+        {
+          "name": "MAHEESH THEEKSHANA",
+          "points": "85"
+        },
+        {
+          "name": "SHIVAM MAVI",
+          "points": "68"
+        },
+        {
+          "name": "SHIVAM MAVI",
+          "points": "68"
+        }
+      ]
+    },
+    {
+      "name": "MI",
+      "purse": 3500,
+      "spent": 3450,
+      "players": [
+        {
+          "name": "NEHAL WADHERA",
+          "points": "72"
+        },
+        {
+          "name": "KESHAV MAHARAJ",
+          "points": "79"
+        },
+        {
+          "name": "SURYA KUMAR YADAV",
+          "points": "94"
+        },
+        {
+          "name": "LIAM LIVINGSTONE",
+          "points": "78"
+        },
+        {
+          "name": " JASPRIT BUMRAH",
+          "points": "100"
+        },
+        {
+          "name": "ISHAN KISHAN ",
+          "points": "92"
+        },
+        {
+          "name": "UMRAN MALIK",
+          "points": "79"
+        },
+        {
+          "name": "TRENT BOULT",
+          "points": "90"
+        }
+      ]
+    },
+    {
+      "name": "GT",
+      "purse": 3500,
+      "spent": 3690,
+      "players": [
+        {
+          "name": "PAT CUMMINS",
+          "points": "87"
+        },
+        {
+          "name": "SAM CURRAN",
+          "points": "80"
+        },
+        {
+          "name": "DARYL MITCHELL",
+          "points": "79"
+        },
+        {
+          "name": "SANJU SAMSON",
+          "points": "74"
+        },
+        {
+          "name": "TILAK VARMA",
+          "points": "89"
+        },
+        {
+          "name": "ABHISHEK SHARMA ",
+          "points": "91"
+        },
+        {
+          "name": "WANINDU HASARANGA",
+          "points": "78"
+        },
+        {
+          "name": "RAJAT PATIDAR",
+          "points": "90"
+        },
+        {
+          "name": "ABHINAV MANOHAR",
+          "points": "71"
+        },
+        {
+          "name": "TABRAIZ SHAMSI",
+          "points": "84"
+        }
+      ]
+    },
+    {
+      "name": "SRH",
+      "purse": 3500,
+      "spent": 3275,
+      "players": [
+        {
+          "name": "BHUVNESHWAR KUMAR",
+          "points": "88"
+        },
+        {
+          "name": "ROHIT SHARMA",
+          "points": "100"
+        },
+        {
+          "name": "MANISH PANDEY",
+          "points": "74"
+        },
+        {
+          "name": "HARSHIT RANA ",
+          "points": "83"
+        },
+        {
+          "name": "KL RAHUL",
+          "points": "97"
+        },
+        {
+          "name": "JOSH HAZLEWOOD",
+          "points": "90"
+        },
+        {
+          "name": "CHARITH ASALANKA",
+          "points": "80"
+        }
+      ]
+    },
+    {
+      "name": "KKR",
+      "purse": 3500,
+      "spent": 3480,
+      "players": [
+        {
+          "name": "VIRAT KOHLI",
+          "points": "100"
+        },
+        {
+          "name": "VARUN CHAKRAVARTHY",
+          "points": "88"
+        },
+        {
+          "name": "CAMERON GREEN",
+          "points": "89"
+        },
+        {
+          "name": "JONNY BAIRSTOW",
+          "points": "84"
+        },
+        {
+          "name": "SAI SUDHARSAN",
+          "points": "88"
+        },
+        {
+          "name": "NAVDEEP SAINI",
+          "points": "68"
+        },
+        {
+          "name": "MARK WOOD",
+          "points": "80"
+        },
+        {
+          "name": "YASH THAKUR",
+          "points": "70"
+        },
+        {
+          "name": "SPENCER JOHNSON",
+          "points": "77"
+        }
+      ]
+    },
+    {
+      "name": "PBKS",
+      "purse": 3500,
+      "spent": 0,
+      "players": []
+    },
+    {
+      "name": "DC",
+      "purse": 3500,
+      "spent": 3475,
+      "players": [
+        {
+          "name": "SHIKHAR DHAWAN",
+          "points": "84"
+        },
+        {
+          "name": "T NATArajan",
+          "points": "75"
+        },
+        {
+          "name": "SHIMRON HETMYER",
+          "points": "76"
+        },
+        {
+          "name": "DEWALD BREVIS",
+          "points": "85"
+        },
+        {
+          "name": "ANUJ RAWAT",
+          "points": "68"
+        },
+        {
+          "name": "FAF DU PLESSIS",
+          "points": "91"
+        },
+        {
+          "name": "KARTIK TYAGI",
+          "points": "69"
+        },
+        {
+          "name": "KS BHARAT",
+          "points": "80"
+        },
+        {
+          "name": "REECE Topley",
+          "points": "68"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": 1771757706745,
+      "name": "PAT CUMMINS",
+      "points": "87",
+      "status": "SOLD",
+      "team": "GT",
+      "amount": "450",
+      "time": "4:25:06 PM"
+    },
+    {
+      "id": 1771757805937,
+      "name": "NEHAL WADHERA",
+      "points": "72",
+      "status": "SOLD",
+      "team": "MI",
+      "amount": "300",
+      "time": "4:26:45 PM"
+    },
+    {
+      "id": 1771757935643,
+      "name": "SHIKHAR DHAWAN",
+      "points": "84",
+      "status": "SOLD",
+      "team": "DC",
+      "amount": "425",
+      "time": "4:28:55 PM"
+    },
+    {
+      "id": 1771758016926,
+      "name": "T NATArajan",
+      "points": "75",
+      "status": "SOLD",
+      "team": "DC",
+      "amount": "275",
+      "time": "4:30:16 PM"
+    },
+    {
+      "id": 1771758123395,
+      "name": "KESHAV MAHARAJ",
+      "points": "79",
+      "status": "SOLD",
+      "team": "MI",
+      "amount": "350",
+      "time": "4:32:03 PM"
+    },
+    {
+      "id": 1771758192185,
+      "name": "SAM CURRAN",
+      "points": "80",
+      "status": "SOLD",
+      "team": "GT",
+      "amount": "425",
+      "time": "4:33:12 PM"
+    },
+    {
+      "id": 1771758276175,
+      "name": "MS DHONI ",
+      "points": "100",
+      "status": "SOLD",
+      "team": "CSK",
+      "amount": "600",
+      "time": "4:34:36 PM"
+    },
+    {
+      "id": 1771758359623,
+      "name": "JAYDEV UNADKAT",
+      "points": "72",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "275",
+      "time": "4:35:59 PM"
+    },
+    {
+      "id": 1771758424529,
+      "name": "SURYA KUMAR YADAV",
+      "points": "94",
+      "status": "SOLD",
+      "team": "MI",
+      "amount": "600",
+      "time": "4:37:04 PM"
+    },
+    {
+      "id": 1771758509544,
+      "name": "BHUVNESHWAR KUMAR",
+      "points": "88",
+      "status": "SOLD",
+      "team": "SRH",
+      "amount": "500",
+      "time": "4:38:29 PM"
+    },
+    {
+      "id": 1771758613074,
+      "name": "SHIMRON HETMYER",
+      "points": "76",
+      "status": "SOLD",
+      "team": "DC",
+      "amount": "375",
+      "time": "4:40:13 PM"
+    },
+    {
+      "id": 1771758691263,
+      "name": "NITISH RANA",
+      "points": "77",
+      "status": "SOLD",
+      "team": "RCB",
+      "amount": "350",
+      "time": "4:41:31 PM"
+    },
+    {
+      "id": 1771758766145,
+      "name": "LIAM LIVINGSTONE",
+      "points": "78",
+      "status": "SOLD",
+      "team": "MI",
+      "amount": "375",
+      "time": "4:42:46 PM"
+    },
+    {
+      "id": 1771758837718,
+      "name": "ROHIT SHARMA",
+      "points": "100",
+      "status": "SOLD",
+      "team": "SRH",
+      "amount": "650",
+      "time": "4:43:57 PM"
+    },
+    {
+      "id": 1771758958880,
+      "name": "DARYL MITCHELL",
+      "points": "79",
+      "status": "SOLD",
+      "team": "GT",
+      "amount": "425",
+      "time": "4:45:58 PM"
+    },
+    {
+      "id": 1771759029319,
+      "name": "DEWALD BREVIS",
+      "points": "85",
+      "status": "SOLD",
+      "team": "DC",
+      "amount": "500",
+      "time": "4:47:09 PM"
+    },
+    {
+      "id": 1771759103127,
+      "name": "PRITHVI SHAW",
+      "points": "49",
+      "status": "SOLD",
+      "team": "RCB",
+      "amount": "350",
+      "time": "4:48:23 PM"
+    },
+    {
+      "id": 1771759194243,
+      "name": "VIRAT KOHLI",
+      "points": "100",
+      "status": "SOLD",
+      "team": "KKR",
+      "amount": "650",
+      "time": "4:49:54 PM"
+    },
+    {
+      "id": 1771759284837,
+      "name": "ARSHDEEP SINGH",
+      "points": "90",
+      "status": "SOLD",
+      "team": "RCB",
+      "amount": "500",
+      "time": "4:51:24 PM"
+    },
+    {
+      "id": 1771759365731,
+      "name": "SANJU SAMSON",
+      "points": "74",
+      "status": "SOLD",
+      "team": "GT",
+      "amount": "350",
+      "time": "4:52:45 PM"
+    },
+    {
+      "id": 1771759513937,
+      "name": "DINESH KARTHIK",
+      "points": "86",
+      "status": "SOLD",
+      "team": "CSK",
+      "amount": "500",
+      "time": "4:55:13 PM"
+    },
+    {
+      "id": 1771759571549,
+      "name": "MARCUS STOINIS",
+      "points": "90",
+      "status": "SOLD",
+      "team": "RCB",
+      "amount": "600",
+      "time": "4:56:11 PM"
+    },
+    {
+      "id": 1771759640439,
+      "name": "ANUJ RAWAT",
+      "points": "68",
+      "status": "SOLD",
+      "team": "DC",
+      "amount": "375",
+      "time": "4:57:20 PM"
+    },
+    {
+      "id": 1771759696111,
+      "name": "AB DE VILLIERS",
+      "points": "97",
+      "status": "SOLD",
+      "team": "RCB",
+      "amount": "700",
+      "time": "4:58:16 PM"
+    },
+    {
+      "id": 1771759774714,
+      "name": "PRERAK MANKAD",
+      "points": "70",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "250",
+      "time": "4:59:34 PM"
+    },
+    {
+      "id": 1771759830298,
+      "name": "VARUN CHAKRAVARTHY",
+      "points": "88",
+      "status": "SOLD",
+      "team": "KKR",
+      "amount": "475",
+      "time": "5:00:30 PM"
+    },
+    {
+      "id": 1771759881599,
+      "name": "FAF DU PLESSIS",
+      "points": "91",
+      "status": "SOLD",
+      "team": "DC",
+      "amount": "550",
+      "time": "5:01:21 PM"
+    },
+    {
+      "id": 1771759924565,
+      "name": "KANE WILLIAMSON",
+      "points": "87",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "475",
+      "time": "5:02:04 PM"
+    },
+    {
+      "id": 1771760015005,
+      "name": "MANISH PANDEY",
+      "points": "74",
+      "status": "SOLD",
+      "team": "SRH",
+      "amount": "600",
+      "time": "5:03:35 PM"
+    },
+    {
+      "id": 1771760072430,
+      "name": " JASPRIT BUMRAH",
+      "points": "100",
+      "status": "SOLD",
+      "team": "MI",
+      "amount": "600",
+      "time": "5:04:32 PM"
+    },
+    {
+      "id": 1771760130062,
+      "name": "CAMERON GREEN",
+      "points": "89",
+      "status": "SOLD",
+      "team": "KKR",
+      "amount": "500",
+      "time": "5:05:30 PM"
+    },
+    {
+      "id": 1771760216395,
+      "name": "OBED MCCOY",
+      "points": "70",
+      "status": "SOLD",
+      "team": "CSK",
+      "amount": "350",
+      "time": "5:06:56 PM"
+    },
+    {
+      "id": 1771760295180,
+      "name": "ISHAN KISHAN ",
+      "points": "92",
+      "status": "SOLD",
+      "team": "MI",
+      "amount": "500",
+      "time": "5:08:15 PM"
+    },
+    {
+      "id": 1771760372171,
+      "name": "JONNY BAIRSTOW",
+      "points": "84",
+      "status": "SOLD",
+      "team": "KKR",
+      "amount": "450",
+      "time": "5:09:32 PM"
+    },
+    {
+      "id": 1771760452609,
+      "name": "KARTIK TYAGI",
+      "points": "69",
+      "status": "SOLD",
+      "team": "DC",
+      "amount": "350",
+      "time": "5:10:52 PM"
+    },
+    {
+      "id": 1771760520698,
+      "name": "ALEX CAREY",
+      "points": "71",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "375",
+      "time": "5:12:00 PM"
+    },
+    {
+      "id": 1771760609414,
+      "name": "TILAK VARMA",
+      "points": "89",
+      "status": "SOLD",
+      "team": "GT",
+      "amount": "450",
+      "time": "5:13:29 PM"
+    },
+    {
+      "id": 1771760668906,
+      "name": "DEEPAK CHAHAR",
+      "points": "84",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "375",
+      "time": "5:14:28 PM"
+    },
+    {
+      "id": 1771760757732,
+      "name": "KAGISO RABADA ",
+      "points": "89",
+      "status": "SOLD",
+      "team": "CSK",
+      "amount": "475",
+      "time": "5:15:57 PM"
+    },
+    {
+      "id": 1771760839441,
+      "name": "KS BHARAT",
+      "points": "80",
+      "status": "SOLD",
+      "team": "DC",
+      "amount": "350",
+      "time": "5:17:19 PM"
+    },
+    {
+      "id": 1771760923699,
+      "name": "ABHISHEK SHARMA ",
+      "points": "91",
+      "status": "SOLD",
+      "team": "GT",
+      "amount": "475",
+      "time": "5:18:43 PM"
+    },
+    {
+      "id": 1771760995222,
+      "name": "BEN DUCKETT",
+      "points": "79",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "375",
+      "time": "5:19:55 PM"
+    },
+    {
+      "id": 1771761060819,
+      "name": "HARSHIT RANA ",
+      "points": "83",
+      "status": "SOLD",
+      "team": "SRH",
+      "amount": "375",
+      "time": "5:21:00 PM"
+    },
+    {
+      "id": 1771761146605,
+      "name": "UMRAN MALIK",
+      "points": "79",
+      "status": "SOLD",
+      "team": "MI",
+      "amount": "350",
+      "time": "5:22:26 PM"
+    },
+    {
+      "id": 1771761209963,
+      "name": "WANINDU HASARANGA",
+      "points": "78",
+      "status": "SOLD",
+      "team": "GT",
+      "amount": "375",
+      "time": "5:23:29 PM"
+    },
+    {
+      "id": 1771761257485,
+      "name": "PRASIDH KRISHNA",
+      "points": "85",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "375",
+      "time": "5:24:17 PM"
+    },
+    {
+      "id": 1771761318307,
+      "name": "KL RAHUL",
+      "points": "97",
+      "status": "SOLD",
+      "team": "SRH",
+      "amount": "500",
+      "time": "5:25:18 PM"
+    },
+    {
+      "id": 1771761389212,
+      "name": "STEVEN SMITH",
+      "points": "85",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "325",
+      "time": "5:26:29 PM"
+    },
+    {
+      "id": 1771761480982,
+      "name": "AXAR PATEL",
+      "points": "89",
+      "status": "SOLD",
+      "team": "CSK",
+      "amount": "450",
+      "time": "5:28:00 PM"
+    },
+    {
+      "id": 1771761540466,
+      "name": "SAI SUDHARSAN",
+      "points": "88",
+      "status": "SOLD",
+      "team": "KKR",
+      "amount": "425",
+      "time": "5:29:00 PM"
+    },
+    {
+      "id": 1771761631975,
+      "name": "JAKE FRASER Mc GURK",
+      "points": "62",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "250",
+      "time": "5:30:31 PM"
+    },
+    {
+      "id": 1771761693911,
+      "name": "MAHEESH THEEKSHANA",
+      "points": "85",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "375",
+      "time": "5:31:33 PM"
+    },
+    {
+      "id": 1771761757613,
+      "name": "MOHAMMAD SIRAJ",
+      "points": "86",
+      "status": "SOLD",
+      "team": "RCB",
+      "amount": "325",
+      "time": "5:32:37 PM"
+    },
+    {
+      "id": 1771761812012,
+      "name": "JOSH HAZLEWOOD",
+      "points": "90",
+      "status": "SOLD",
+      "team": "SRH",
+      "amount": "400",
+      "time": "5:33:32 PM"
+    },
+    {
+      "id": 1771761864101,
+      "name": "NAVDEEP SAINI",
+      "points": "68",
+      "status": "SOLD",
+      "team": "KKR",
+      "amount": "325",
+      "time": "5:34:24 PM"
+    },
+    {
+      "id": 1771761980784,
+      "name": "TRENT BOULT",
+      "points": "90",
+      "status": "SOLD",
+      "team": "MI",
+      "amount": "375",
+      "time": "5:36:20 PM"
+    },
+    {
+      "id": 1771762029103,
+      "name": "RAJAT PATIDAR",
+      "points": "90",
+      "status": "SOLD",
+      "team": "GT",
+      "amount": "350",
+      "time": "5:37:09 PM"
+    },
+    {
+      "id": 1771762099209,
+      "name": "ISHANT SHARMA",
+      "points": "82",
+      "status": "SOLD",
+      "team": "CSK",
+      "amount": "300",
+      "time": "5:38:19 PM"
+    },
+    {
+      "id": 1771762142649,
+      "name": "MARK WOOD",
+      "points": "80",
+      "status": "SOLD",
+      "team": "KKR",
+      "amount": "325",
+      "time": "5:39:02 PM"
+    },
+    {
+      "id": 1771762196526,
+      "name": "ROMARIO SHEPHERD",
+      "points": "82",
+      "status": "SOLD",
+      "team": "RCB",
+      "amount": "350",
+      "time": "5:39:56 PM"
+    },
+    {
+      "id": 1771762252622,
+      "name": "HARPREET BRAR",
+      "points": "74",
+      "status": "SOLD",
+      "team": "CSK",
+      "amount": "325",
+      "time": "5:40:52 PM"
+    },
+    {
+      "id": 1771762351899,
+      "name": "REECE Topley",
+      "points": "68",
+      "status": "SOLD",
+      "team": "DC",
+      "amount": "275",
+      "time": "5:42:31 PM"
+    },
+    {
+      "id": 1771762460171,
+      "name": "RINKU SINGH",
+      "points": "81",
+      "status": "SOLD",
+      "team": "RCB",
+      "amount": "200",
+      "time": "5:44:20 PM"
+    },
+    {
+      "id": 1771762544636,
+      "name": "ABHINAV MANOHAR",
+      "points": "71",
+      "status": "SOLD",
+      "team": "GT",
+      "amount": "190",
+      "time": "5:45:44 PM"
+    },
+    {
+      "id": 1771762612946,
+      "name": "YASH THAKUR",
+      "points": "70",
+      "status": "SOLD",
+      "team": "KKR",
+      "amount": "180",
+      "time": "5:46:52 PM"
+    },
+    {
+      "id": 1771762653308,
+      "name": "CHARITH ASALANKA",
+      "points": "80",
+      "status": "SOLD",
+      "team": "SRH",
+      "amount": "250",
+      "time": "5:47:33 PM"
+    },
+    {
+      "id": 1771762773370,
+      "name": "KARUN NAIR",
+      "points": "70",
+      "status": "SOLD",
+      "team": "CSK",
+      "amount": "225",
+      "time": "5:49:33 PM"
+    },
+    {
+      "id": 1771762878160,
+      "name": "SPENCER JOHNSON",
+      "points": "77",
+      "status": "SOLD",
+      "team": "KKR",
+      "amount": "150",
+      "time": "5:51:18 PM"
+    },
+    {
+      "id": 1771763000585,
+      "name": "JITESH SHARMA",
+      "points": "87",
+      "status": "SOLD",
+      "team": "CSK",
+      "amount": "225",
+      "time": "5:53:20 PM"
+    },
+    {
+      "id": 1774205420239,
+      "name": "SHIVAM MAVI",
+      "points": "68",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "100",
+      "time": "12:20:20 AM"
+    },
+    {
+      "id": 1774206365517,
+      "name": "SHIVAM MAVI",
+      "points": "68",
+      "status": "SOLD",
+      "team": "LSG",
+      "amount": "200",
+      "time": "12:36:05 AM"
+    },
+    {
+      "id": 1774206672109,
+      "name": "TABRAIZ SHAMSI",
+      "points": "84",
+      "status": "SOLD",
+      "team": "GT",
+      "amount": "200",
+      "time": "12:41:12 AM"
+    },
+    {
+      "id": 1774244706906,
+      "name": "KULWANT KHEJROLIYA",
+      "points": "60",
+      "status": "SOLD",
+      "team": "RCB",
+      "amount": "120",
+      "time": "11:15:06 AM"
+    }
+  ],
+  "currentPlayerId": 1770137812290
+}
